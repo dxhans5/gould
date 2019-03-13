@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/gould":{"guestpath":"/var/www/gould","hostpath":"C:/Users/donaldhansen/Desktop/gould","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/donaldhansen/Desktop/gould","disabled":false,"__vagrantfile":true}}}
